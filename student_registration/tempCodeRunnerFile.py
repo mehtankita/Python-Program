@@ -40,7 +40,7 @@ while True:
   
     elif choice == "2":
         if not data:
-            print("no records found.")
+            print("No records found.")
         for s in data:
             print(s)
 
